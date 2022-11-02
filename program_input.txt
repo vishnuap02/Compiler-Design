@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main()
+{
+    int x,y,pro;
+float a,b;
+char l,m;
+    pro = x*y;
+
+int vis;
+x=5;
+y=20;
+l='a';
+m='b';
+a=0.5;
+b=0.25;
+    return 0;
+}

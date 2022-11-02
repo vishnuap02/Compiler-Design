@@ -1,0 +1,1 @@
+#include<stdio.h>intmain(){intx=2,y=8,pro;pro=x*y;//himanprintf("%d",pro);/*printdonejairam*/return0;}ÿ
